@@ -1,0 +1,166 @@
+[
+	{
+	   "id": 1,
+	   "disease": "apple_scab",
+	   "symptoms": [
+		    "A serious disease of apples and ornamental crabapples, apple scab (Venturia inaequalis) attacks both leaves and fruit.Â ",
+			"The fungal disease forms pale yellow or olive-green spots on the upper surface of leaves",
+			"Dark, velvety spots may appear on the lower surface",
+			"Severely infected leaves become twisted and puckered and may drop early in the summer",
+			"Scabby spots are sunken and tan and may have velvety spores in the center",
+			"As these spots mature, they become larger and turn brown and corky",
+			"Â Infected fruit becomes distorted and may crack allowing entry of secondary organisms.Â ",
+			"Severely affected fruit may drop, especially when young.",
+			"The disease usually noticed on leaves and fruits.",
+			"Affected leaves become twisted or puckered and have black, circular spots on their upper surface.",
+			"On the under surface of leaves, the spots are velvety and may coalesce to cover the whole leaf surface. Severely affected leaves may turn yellow and drop.",
+			"Scab can also infect flower stems and cause flowers to drop.",
+			"The lesions later become sunken and brown and may have spores around their margins",
+			"Infected fruit become distorted and may crack, allowing entry of secondary organisms"
+
+	   ],
+	   "remedies": [
+			"Choose resistant varieties when possible.",
+			"Rake under trees and destroy infected leaves to reduce the number of fungal spores available to start the disease cycle over again next spring.",
+			"Water in the evening or early morning hours (avoid overhead irrigation) to give the leaves time to dry out before infection can occur.",
+			"Spread a 3- to 6-inch layer of compost under trees, keeping it away from the trunk, to cover soil and prevent splash dispersal of the fungal spores.",
+			"For best control, spray liquid copper soap early, two weeks before symptoms normally appear. Alternatively, begin applications when disease first appears, and repeat at 7 to 10 day intervals up to blossom drop.",
+			"BonideÂ® Sulfur Plant Fungicide, a finely ground wettable powder, is used in pre-blossom applications and must go on before rainy or spore discharge periods. Apply from pre-pink through cover (2 Tbsp/ gallon of water), or use in cover sprays up to the day of harvest.",
+			"OrganocideÂ® Plant Doctor is an earth-friendly systemic fungicide that works its way through the entire plant to combat a large number of diseases on ornamentals, turf, fruit and more. Apply as a soil drench or foliar spray (3-4 tsp/ gallon of water) to prevent and attack fungal problems.",
+			"Containing sulfur and pyrethrins, BonideÂ® Orchard Spray is a safe, one-hit concentrate for insect attacks and fungal problems. For best results, apply as a protective spray (2.5 oz/ gallon) early in the season. If disease, insects or wet weather are present, mix 5 oz in one gallon of water. Thoroughly spray all parts of the plant, especially new shoots."
+
+	   ]
+	},
+	{
+	   "id": 4,
+	   "disease": "black_rot",
+	   "symptoms": [
+			"The disease usually noticed on leaves and fruits.",
+			"Affected leaves become twisted or puckered and have black, circular spots on their upper surface.",
+			"On the under surface of leaves, the spots are velvety and may coalesce to cover the whole leaf surface. Severely affected leaves may turn yellow and drop.",
+			"Scab can also infect flower stems and cause flowers to drop.",
+			"The lesions later become sunken and brown and may have spores around their margins",
+			"Infected fruit become distorted and may crack, allowing entry of secondary organisms"
+
+	   ],
+	   "remedies": [
+			"Treating black rot on apple trees starts with sanitation. Because fungal spores overwinter on fallen leaves, mummified fruits, dead bark and cankers, itâ€™s important to keep all the fallen debris and dead fruit cleaned up and away from the tree. ",
+			"During the winter, check for red cankers and remove them by cutting them out or pruning away the affected limbs at least six inches beyond the wound. ",
+			"Destroy all infected tissue immediately and keep a watchful eye out for new signs of infection. ",
+			"Once black rot disease is under control in your tree and youâ€™re again harvesting healthy fruits, make sure to remove any injured or insect-invaded fruits to avoid re-infection. Although general purpose fungicides, like copper-based sprays and lime sulfur, can be used to control black rot, nothing will improve apple black rot like removing all sources of spores."
+
+	   ]
+	},
+	{
+	   "id": 8,
+	   "disease": "sooty_blotch",
+	   "symptoms": [
+			"Sooty blotch appears as sooty or cloudy blotches on the surface of the fruit. The blotches are olive green with an indefi nite outline.",
+			"The blotches are usually one fourth of an inch in diameter or larger, and may coalesce to cover much of the fruit.",
+			"The â€œsmudgeâ€� appearance results from the presence of hundreds of minute, dark pycnidia that are interconnected by a mass of loose, interwoven dark hyphae.",
+			"The sooty blotch fungus is generally restricted to the outer surface of the cuticle. In rare cases, the hyphae penetrate between the epidermal cell walls and the cuticle."
+
+	   ],
+	   "remedies": [
+			"Once your apples are covered in black, sooty fungal bodies, thereâ€™s not a lot you can do but clean each fruit carefully before using them. ",
+			"Prevention is a lot simpler than you probably imagine. Sooty blotch appears when temperatures are warming and humidity is high, so removing one of those factors can stop this disease in its tracks. Of course, you canâ€™t control the weather, but you can control the humidity in the canopy of your tree. ",
+			"Sooty blotch on apples is primarily a problem of under pruned trees, so get in there and prune that apple tree like mad",
+			"Apples are generally trained to two or three main trunks, with a middle thatâ€™s open. ",
+			"It may feel counter-intuitive to prune a fruit tree, but at the end of the day, it can only support so many fruits, no matter how many branches it has. ",
+			"Removing excess branches not only increases air circulation, preventing the build-up of humidity, but it allows the fruits that remain to grow larger. ",
+			"Thinning fruits soon after they begin to swell is another way to help keep sooty blotch down. ",
+			"Remove every second fruit to prevent fruits from touching and creating microclimates where sooty blotch can thrive",
+			"Read more at Gardening Know How: What Is Sooty Blotch: Information On Sooty Blotch Treatment Of Apples https://www.gardeningknowhow.com/edible/fruits/apples/sooty-blotch-treatment-apples.htm"
+
+
+	   ]
+	},
+	{
+	   "id": 7,
+	   "disease": "mosaic",
+	   "symptoms": [
+			"Apple trees infected with apple mosaic virus develop pale to bright cream spots on spring leaves as they expand.",
+			"These spots may become necrotic after exposure to summer sun and heat.",
+			"Other viral diseases are symptomless in most commercial cultivars, but may cause symptoms in certain cultivars, scionl / rootstock combinations, and ornamental varieties. Symptoms of apple chlorotic leaf spot virus may include chlorotic leaf spots, leaf distortion, chlorotic rings and line patterns, reduced leaf size, and stunting.",
+			"Apple stem grooving virus produces symptoms on â€˜Virginia Crabâ€™ such as chlorotic leaf spots, stern grooving and pitting, union necrosis, and swelling of the stem above the graft union."
+
+	   ],
+	   "remedies": [
+			"Fungicides will NOT treat this viral disease.",
+			"Plant resistant varieties when available or purchase transplants from a reputable source.",
+			"Do NOT save seed from infected crops.",
+			"Spot treat with least-toxic, natural pest control products, such as Safer Soap, Bon-Neem and diatomaceous earth, to reduce the number of disease carrying insects.",
+			"Harvest-GuardÂ® row cover will help keep insect pests off vulnerable crops/ transplants and should be installed until bloom.",
+			"Remove all perennial weeds, using least-toxic herbicides, within 100 yards of your garden plot.",
+			"The virus can be spread through human activity, tools and equipment. Frequently wash your hands and disinfect garden tools, stakes, ties, pots, greenhouse benches, etc. (one part bleach to 4 parts water) to reduce the risk of contamination.",
+			"Avoid working in the garden during damp conditions (viruses are easily spread when plants are wet).",
+			"Avoid using tobacco around susceptible plants. Cigarettes and other tobacco products may be infected and can spread the virus.",
+			"Remove and destroy all infected plants (see Fall Garden Cleanup). Do NOT compost."
+
+	   ]
+	},
+	{
+		"id": 3,
+	   "disease": "alternaria_leaf_blotch",
+	   "symptoms": [
+			"Leaf spots appear on the leaves in late spring and early summer. Initially, they are 1/8 to 1/4 inch in diameter, round, brown, and occasionally have a purple border.",
+			"As spots age, they often turn tan to ash gray. Some spots undergo secondary enlargement, becoming irregularly shaped.",
+			"Heavily infected leaves often abscise, resulting in defoliation. (Defoliation is greater when mites are present.) Fruit infections result in small, dark, raised pimple-like lesions associated with the lenticels.",
+			"Twig lesions, which are somewhat sunken, round, blackish spots bordered by cracks, occur on susceptible cultivars such as Indo but have not been observed on Delicious."
+
+	   ],
+	   "remedies": [
+			"Liquid copper fungicides such as Monterey Liqui-Cop or Bonide Liquid Copper Fungicide are extremely effective for control of many fungal diseases including alternaria. Apply every 7-10 days as needed to reduce fungal growth and spread.",
+			"If applied up to 2 weeks prior to when alternaria normally appears in your garden, these liquid copper fungicides can completely prevent the spread entirely!",
+			"A sulfur-based plant fungicide can also help. Cover both the tops and bottoms of leaves with a thin layer of a sulfur-based powder like Bonide Sulfur Plant Fungicide. The sulfur prohibits fungal propagation.",
+			"Broad-spectrum organic options for fungal control, such as Serenade Garden, will also have great effect. This product uses Bacillus subtilis to effectively control a wide variety of fungal plant disease, including powdery mildew, alternaria, anthracnose, and more.",
+			"Finally, pests can carry fungi between plants, too. A good preventative for many pest types is neem oil. While it will not control all pests, it often makes for an inhospitable environment for pests to live in, making it less likely theyâ€™ll spread disease."
+
+	   ]
+	},
+	{
+	"id": 5,
+	   "disease": "brown_rot",
+	   "symptoms": [
+			"Enlarged rots are soft but not mushy.",
+			"Circular and medium brown during the early and medium stages of development.",
+			"Decayed area enlarges; small black spots about 1/8 inch across gradually develop at the lenticels",
+			"Entire fruit is decayed and under warm conditions turns black and develops a velvety sheen.",
+			"In warm, moist conditions gray to tan fungal tufts develop, either in varying size patches or scattered over the decayed surface."
+	   ],
+	   "remedies": [
+			"Choose resistant varieties whenever possible.",
+			"Prompt removal and destruction of infected plant parts helps breaks the life cycle of the disease in individual trees and small orchards, and may be sufficient to keep brown rot below damaging levels.",
+			"It is important to rake up and remove any fallen fruit or debris from under trees.",
+			"Prune trees occasionally to improve air circulation. Also, water from below to keep from wetting blossoms, foliage and fruit.",
+			"Use TanglefootÂ® Pruning Sealer to seal all cuts and wounds and protect against insects and disease organisms.",
+			"Ready to use copper fungicides or sulfur powders should be applied weekly to infected trees starting when the blossoms are just beginning to open and continuing throughout the growing season. If at all possible, time applications so that 12 hours of dry weather follows application.",
+			"OrganocideÂ® Plant Doctor is an earth-friendly systemic fungicide that works its way through the entire plant to combat a large number of diseases on ornamentals, turf, fruit and more. Apply as a foliar spray (1 tsp/ gallon of water) to combat this destructive stone fruit problem.",
+			"Containing sulfur and pyrethrins, BonideÂ® Orchard Spray is a safe, one-hit concentrate for insect attacks and fungal problems. For best results, apply as a protective spray (2.5 oz/ gallon) early in the season. If disease, insects or wet weather are present, mix 5 oz in one gallon of water. Thoroughly spray all parts of the plant, especially new shoots."
+
+	   ]
+	},
+	{
+		"id": 6,
+	   "disease": "cork_spot",
+	   "symptoms": [
+			"Cork spot generally appears in the outer portion of the fruit flesh as small green dimples or depressions. ",
+			"This disorder may begin developing in June and continue throughout the initial stages of growth and enlargement. ",
+			"The green spots eventually enlarge to corky, discolored areas 1/4 to 1/2 inch into the flesh of the apple. ",
+			"The corky spots may occur anywhere on the fruit flesh."
+
+	   ],
+	   "remedies": [
+			"Treating apple cork spot requires a multi-control approach. Ideally, depending upon soil test results, the site should be amended with agricultural ground limestone at planting. ",
+			"Additional limestone should be added at 3- to 5-year intervals post planting. Again, rely on a soil test each year to determine if and how much limestone should be added. ",
+			"Calcium sprays may also help reduce the incidence of cork spot. Mix 2 pounds of calcium chloride per 100 gallons of water or 1.5 tablespoons per 1 gallon of water. ",
+			"Apply in four separate sprays starting two weeks after full bloom. ",
+			"Continue at 10- to 14-day intervals. Donâ€™t apply calcium chloride when temps are over 85 F. (29 C.). ",
+			"Calcium chloride is corrosive, so be sure to rinse the sprayer thoroughly after using. Lastly, remove any excessive growth and water sprouts in late July or early August. ",
+			"To reduce excessive growth, reduce or cease applying nitrogen to the soil for 1-2 years.",
+			"Read more at Gardening Know How: What Is Apple Cork Spot: Learn About Treating Apple Cork Spot https://www.gardeningknowhow.com/edible/fruits/apples/treating-apple-cork-spot.htm"
+
+	   ]
+	}
+	
+]
